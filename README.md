@@ -135,5 +135,5 @@ Open `sql/01_exploration_and_business_kpis.sql` in MySQL Workbench or another co
 **Gayatri Mane**  
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-- GitHub: 
+- GitHub: https://github.com/gayatrimaneofficial-web/Student-Placement-Analytics
 - Project: Student Placement Analytics
