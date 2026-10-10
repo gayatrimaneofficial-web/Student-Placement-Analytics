@@ -60,6 +60,9 @@ These values are documented in the project QA audit and should be treated as dat
 The supplied Power BI file contains two pages: **Executive Overview** and **Insight**.
 
 File: [`dashboard/dashboard_final.pbix`](dashboard/dashboard_final.pbix)
+<img width="1391" height="777" alt="dashboard_preview" src="https://github.com/user-attachments/assets/3e7cc435-60a7-48bb-9ab5-5636b45730d7" />
+
+
 
 Open it with Power BI Desktop to explore the report. A preview image is not included because the source package did not provide a verified dashboard screenshot in this project folder.
 
