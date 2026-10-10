@@ -132,8 +132,8 @@ Open `sql/01_exploration_and_business_kpis.sql` in MySQL Workbench or another co
 
 ## Author
 
-**Your Name**  
+**Gayatri Mane**  
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-- LinkedIn: Add your LinkedIn profile
-- GitHub: Add your GitHub profile
+- GitHub: 
+- Project: Student Placement Analytics
